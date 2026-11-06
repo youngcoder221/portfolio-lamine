@@ -16,7 +16,7 @@ export interface Education {
 }
 
 export const personalInfo = {
-  name: "Lamine Ndong",
+  name: "Lamine NDONG",
   role: "Développeur Full-Stack & Génie Logiciel",
   location: "Dakar, Sénégal",
   bio: "Étudiant en double cursus Licence 3 (Génie Logiciel & Développement Web). Passionné par la conception d'architectures applicatives modernes, de l'UI/UX soignée jusqu'au déploiement cloud performant.",
