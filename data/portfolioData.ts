@@ -22,7 +22,7 @@ export const personalInfo = {
   bio: "Étudiant en double cursus Licence 3 (Génie Logiciel & Développement Web). Passionné par la conception d'architectures applicatives modernes, de l'UI/UX soignée jusqu'au déploiement cloud performant.",
   email: "laminendong087@gmail.com",
   github: "https://github.com/youngcoder221", // N'oublie pas de mettre ton vrai pseudo
-  linkedin: "https://www.linkedin.com/in/lamine-ndong-157867331",
+  linkedin: "https://www.linkedin.com/in/lamine-ndong7",
   resumePath: "/resume.pdf", // Emplacement de ton CV pour le bouton de téléchargement
 };
 

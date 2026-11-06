@@ -118,5 +118,5 @@ portfolio-lamine/
 
 **Lamine Ndong**
 - **GitHub** : [@youngcoder221](https://github.com/youngcoder221)
-- **LinkedIn** : [Lamine Ndong](https://www.linkedin.com/in/lamine-ndong-157867331)
+- **LinkedIn** : [Lamine Ndong](https://www.linkedin.com/in/lamine-ndong7)
 - **Email** : [laminendong087@gmail.com](mailto:laminendong087@gmail.com)
