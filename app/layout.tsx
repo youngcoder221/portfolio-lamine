@@ -13,11 +13,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Lamine Ndong | Développeur Full-Stack & Génie Logiciel",
+  title: "Lamine NDONG | Développeur Full-Stack & Génie Logiciel",
   description:
-    "Portfolio de Lamine Ndong, étudiant en double cursus Génie Logiciel et Développement Web. Spécialisé en React, Next.js, Node.js et architectures logicielles.",
+    "Portfolio de Lamine NDONG, étudiant en double cursus Génie Logiciel et Développement Web. Spécialisé en React, Next.js, Node.js et architectures logicielles.",
   keywords: [
-    "Lamine Ndong",
+    "Lamine NDONG",
     "Développeur Web Dakar",
     "Développeur Full-Stack Sénégal",
     "React",
@@ -25,13 +25,13 @@ export const metadata: Metadata = {
     "Node.js",
     "Génie Logiciel",
   ],
-  authors: [{ name: "Lamine Ndong" }],
+  authors: [{ name: "Lamine NDONG" }],
   openGraph: {
-    title: "Lamine Ndong | Développeur Full-Stack & Génie Logiciel",
+    title: "Lamine NDONG | Développeur Full-Stack & Génie Logiciel",
     description:
       "Conception logicielle et développement web moderne (React, Next.js, Node.js, Express, MongoDB, MySQL).",
-    url: "https://ton-portfolio.vercel.app", // On mettra l'URL finale
-    siteName: "Lamine Ndong Portfolio",
+    url: "https://portfolio-lamine-eta.vercel.app",
+    siteName: "Lamine NDONG Portfolio",
     locale: "fr_FR",
     type: "website",
   },
